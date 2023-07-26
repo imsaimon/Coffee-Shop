@@ -76,7 +76,7 @@ header{
 .home{
     width: 100%;
     min-height: 100vh;
-    background: url(/img/bg.png);
+    background: url(./img/bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
